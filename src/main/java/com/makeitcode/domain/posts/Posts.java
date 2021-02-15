@@ -40,4 +40,8 @@ public class Posts {
     public String getAuthor() {
         return author;
     }
+
+    public Long getId() {
+        return id;
+    }
 }
