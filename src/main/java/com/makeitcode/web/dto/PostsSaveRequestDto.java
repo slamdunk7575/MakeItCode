@@ -3,8 +3,10 @@ package com.makeitcode.web.dto;
 import com.makeitcode.domain.posts.Posts;
 import lombok.AccessLevel;
 import lombok.Builder;
+import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+@Getter
 @NoArgsConstructor(access = AccessLevel.PRIVATE)
 public class PostsSaveRequestDto {
     private String title;
@@ -26,3 +28,4 @@ public class PostsSaveRequestDto {
                 .build();
     }
 }
+
