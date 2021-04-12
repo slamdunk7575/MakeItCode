@@ -1,10 +1,5 @@
 ## Explanation
-개발자들이 쉽게 모임을 가질 수 있게 도와주는 서비스
-
-'MakeItCode' makes it easy for developers to have meetings.
-
-## Functions
-게시글 작성
+연습장
 
 ## How To Build & Run
 
@@ -22,5 +17,4 @@ IDE: IntelliJ
 Versioning: GitHub
 
 OS: MacOS
-## To Do
-API 개발중...
+
